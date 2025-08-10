@@ -1,5 +1,3 @@
-<xaiArtifact artifact_id="17cc2c0d-e02e-4e77-bf74-5cb1c8de63b9" artifact_version_id="e4b1aa6a-5268-493a-aea4-e32fb13a834f" title="README.md" contentType="text/markdown">
-
 # Orion-Wails Boilerplate
 
 🚀 A modern starter template for building desktop applications with **React 18 (JavaScript)**, **Wails v2 (Go)**, and **Tailwind CSS v3**.
